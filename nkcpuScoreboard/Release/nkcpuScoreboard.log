@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  nkcpuScoreboard.cpp
+  nkcpuScoreboardDlg.cpp
+nkcpuScoreboardDlg.cpp(179): warning C4305: “=”: 从“double”到“float”截断
+nkcpuScoreboardDlg.cpp(180): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码
+  All 378 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  nkcpuScoreboard.vcxproj -> D:\Documents\学习\作业\计算机体系结构\nkcpuScoreboard\Release\nkcpuScoreboard.exe
+  nkcpuScoreboard.vcxproj -> D:\Documents\学习\作业\计算机体系结构\nkcpuScoreboard\Release\nkcpuScoreboard.pdb (Full PDB)

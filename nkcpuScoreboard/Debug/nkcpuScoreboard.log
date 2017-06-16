@@ -1,0 +1,5 @@
+﻿  nkcpuScoreboardDlg.cpp
+d:\documents\学习\作业\计算机体系结构\nkcpuscoreboard\nkcpuscoreboard\nkcpuscoreboarddlg.cpp(179): warning C4305: “=”: 从“double”到“float”截断
+d:\documents\学习\作业\计算机体系结构\nkcpuscoreboard\nkcpuscoreboard\nkcpuscoreboarddlg.cpp(180): warning C4305: “=”: 从“double”到“float”截断
+  nkcpuScoreboard.vcxproj -> D:\Documents\学习\作业\计算机体系结构\nkcpuScoreboard\Debug\nkcpuScoreboard.exe
+  nkcpuScoreboard.vcxproj -> D:\Documents\学习\作业\计算机体系结构\nkcpuScoreboard\Debug\nkcpuScoreboard.pdb (Partial PDB)
